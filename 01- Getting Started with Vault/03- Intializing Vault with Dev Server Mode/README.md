@@ -27,7 +27,7 @@ vault server -dev
 ```
 
 <div align="center">
-<img src="images/image3png" alt="IAM Policies" width="600">
+<img src="images/image3.png" alt="IAM Policies" width="600">
 </div>
 
 ## Enviroment Variables
