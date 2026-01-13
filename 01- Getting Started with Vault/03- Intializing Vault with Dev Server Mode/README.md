@@ -8,10 +8,10 @@ Once you are comfortable with the basics, you go more in-depth about aspects lik
 </div>
 
 ## Overview of vault Dev mode
+
 The Dev server mode in Vault is useful for local development, testing and exploration.
 Not very secure.
 Everything is stored in memory (will lose data on every restart).
-
 
 <div align="center">
 <img src="images/image2.png" alt="IAM Policies" width="600">
@@ -32,7 +32,7 @@ vault server -dev
 
 ## Enviroment Variables
 
-There is one primary enviroment varibales that we need to set 
+There is one primary enviroment varibales that we need to set
 
 ```
 VAULT_ADDR=http://127.0.0.1:8200 #for windows
